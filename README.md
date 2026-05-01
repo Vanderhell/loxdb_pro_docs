@@ -2,7 +2,7 @@
 
 [![Docs Status](https://img.shields.io/badge/docs-public-blue)](#)
 [![Source](https://img.shields.io/badge/source-internal-orange)](#)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Scope](https://img.shields.io/badge/scope-documentation_only-informational)](#)
 
 Public technical documentation for the internal `loxdb_pro` repository.
 
