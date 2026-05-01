@@ -1,49 +1,40 @@
 # loxdb_pro_docs
 
-Official public documentation repository for `loxdb_pro`.
+[![Docs Status](https://img.shields.io/badge/docs-public-blue)](#)
+[![Source](https://img.shields.io/badge/source-internal-orange)](#)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-## Purpose
+Public technical documentation for the internal `loxdb_pro` repository.
 
-This repository contains public, technical documentation only:
-- architecture and module specifications
-- integration and deployment guides
-- API and behavior contracts
-- release notes and migration notes
-- roadmap and non-sensitive project status
+## What This Repository Is
 
-No internal source code, private test assets, local machine paths, secrets, or personal contact details are published here.
+- Public-facing architecture and engineering documentation.
+- Sanitized reference material exported from the internal project.
+- Stable entrypoint for partners, reviewers, and integrators.
 
-## Repository Scope
+## What This Repository Is Not
 
-Included:
-- `docs/`
-- `spec/`
-- `roadmap/`
-- `releases/`
-- `assets/` (documentation assets only)
+- It is not the development source-of-truth.
+- It does not contain private source code or internal operational details.
 
-Excluded:
-- runtime source code
-- private CI/CD internals
-- local benchmark logs with host-specific details
-- internal-only operational procedures
+## Structure
 
-## Source of Truth
+- `docs/` curated public documentation
+- `spec/` formal contracts/specifications
+- `roadmap/` public milestones
+- `releases/` release notes
+- `reference/` sanitized documentation mirror from internal `loxdb_pro`
 
-Development happens in internal repository: `loxdb_pro`.
-This repository is a sanitized public documentation mirror.
+## Link To Internal Project
 
-## Publishing Rule
+- Internal engineering repository: `loxdb_pro` (private)
+- Public documentation mirror: `loxdb_pro_docs` (this repository)
 
-Before publishing updates, run a documentation sanitization check to ensure there are no:
-- absolute local paths (e.g., `C:\Users\...`)
-- personal emails and identities
-- internal-only infrastructure references
+## Publishing Discipline
 
-## Initial Structure
+Before each publish, validate:
+- no absolute local paths
+- no personal contact leakage
+- no internal-only topology/infra details
 
-- `docs/` technical manuals and guides
-- `spec/` formal specs and contracts
-- `roadmap/` public roadmap
-- `releases/` release notes/changelog snapshots
-- `assets/` images/diagrams used by docs
+See [DOCS_PUBLISH_CHECKLIST.md](DOCS_PUBLISH_CHECKLIST.md).
