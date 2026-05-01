@@ -6,7 +6,7 @@ This repository accepts documentation improvements only.
 
 - clarity improvements in existing docs
 - typo fixes
-- architecture/spec clarifications
+- API contract clarifications
 - release-note and roadmap updates
 
 ## Not allowed here

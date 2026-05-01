@@ -1,3 +1,6 @@
 # docs
 
-Put manuals, integration guides, and user-facing technical documentation here.
+Public documentation only.
+
+Contains API-level and integration-level documentation suitable for external readers.
+No internal architecture/module implementation details are published here.

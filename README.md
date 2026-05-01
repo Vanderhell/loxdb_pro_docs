@@ -2,39 +2,42 @@
 
 [![Docs Status](https://img.shields.io/badge/docs-public-blue)](#)
 [![Source](https://img.shields.io/badge/source-internal-orange)](#)
-[![Scope](https://img.shields.io/badge/scope-documentation_only-informational)](#)
+[![Scope](https://img.shields.io/badge/scope-api_only-informational)](#)
 
-Public technical documentation for the internal `loxdb_pro` repository.
+Public documentation for the internal `loxdb_pro` project.
 
-## What This Repository Is
+## Scope
 
-- Public-facing architecture and engineering documentation.
-- Sanitized reference material exported from the internal project.
-- Stable entrypoint for partners, reviewers, and integrators.
+This repository intentionally publishes only:
+- public API-level documentation
+- integration-facing behavior contracts
+- usage limits and error-handling guidance
+- release notes and public roadmap
 
-## What This Repository Is Not
-
-- It is not the development source-of-truth.
-- It does not contain private source code or internal operational details.
+This repository intentionally does **not** publish:
+- internal module internals
+- implementation internals
+- private validation procedures
+- source code or proprietary engineering know-how
 
 ## Structure
 
-- `docs/` curated public documentation
-- `spec/` formal contracts/specifications
+- `docs/` public API and integration documentation
+- `spec/` public contracts and interface-level specifications
 - `roadmap/` public milestones
-- `releases/` release notes
-- `reference/` sanitized documentation mirror from internal `loxdb_pro`
+- `releases/` public release notes
+- `assets/` documentation assets
 
-## Link To Internal Project
+## Internal/External Split
 
 - Internal engineering repository: `loxdb_pro` (private)
-- Public documentation mirror: `loxdb_pro_docs` (this repository)
+- Public docs repository: `loxdb_pro_docs` (this repository)
 
 ## Publishing Discipline
 
 Before each publish, validate:
 - no absolute local paths
-- no personal contact leakage
-- no internal-only topology/infra details
+- no personal/private contact leakage
+- no internal implementation disclosure
 
 See [DOCS_PUBLISH_CHECKLIST.md](DOCS_PUBLISH_CHECKLIST.md).
