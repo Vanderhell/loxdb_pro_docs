@@ -22,11 +22,12 @@ This repository intentionally does **not** publish:
 
 ## Structure
 
-- `docs/` public API and integration documentation
-- `spec/` public contracts and interface-level specifications
-- `roadmap/` public milestones
-- `releases/` public release notes
-- `assets/` documentation assets
+- `docs/api/` — API reference documentation
+- `docs/assets/` — documentation assets
+- `docs/spec/` — public contracts and interface-level specifications
+- `docs/roadmap/` — public milestones
+- `docs/releases/` — public release notes
+- `docs/PRODUCT_README.md` — product overview
 
 ## Internal/External Split
 
