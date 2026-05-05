@@ -12,7 +12,7 @@ This repository accepts documentation improvements only.
 ## Not allowed here
 
 - source code contributions
-- internal runbooks or private infrastructure details
+- non-public runbooks or private infrastructure details
 - secrets, personal data, or local machine paths
 
 ## Pull request checklist
