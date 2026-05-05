@@ -2,6 +2,7 @@
 
 - Public headers: `modules/loxdb_cli/include/cli_*.h`
 - CMake target: `loxdb::cli`
+- Category: Tooling
 
 ## Purpose
 

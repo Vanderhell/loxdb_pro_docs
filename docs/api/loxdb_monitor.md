@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_monitor/include/loxdb_monitor.h`
 - CMake target: `loxdb::monitor`
+- Category: Observability
 
 ## Purpose
 

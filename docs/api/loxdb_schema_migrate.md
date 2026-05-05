@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_schema_migrate/include/loxdb_schema_migrate.h`
 - CMake target: `loxdb::schema_migrate`
+- Category: Lifecycle
 
 ## Purpose
 

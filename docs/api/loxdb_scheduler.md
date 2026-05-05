@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_scheduler/include/loxdb_scheduler.h`
 - CMake target: `loxdb::scheduler`
+- Category: Lifecycle (utility)
 
 ## Purpose
 

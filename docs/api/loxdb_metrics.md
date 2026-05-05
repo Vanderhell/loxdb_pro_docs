@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_metrics/include/loxdb_metrics.h`
 - CMake target: `loxdb::metrics`
+- Category: Observability
 
 ## Purpose
 

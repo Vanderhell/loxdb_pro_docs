@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_net/include/loxdb_net.h`
 - CMake target: `loxdb::net`
+- Category: Connectivity
 
 ## Purpose
 

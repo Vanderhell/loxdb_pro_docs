@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_ota/include/loxdb_ota.h`
 - CMake target: `loxdb::ota`
+- Category: Fleet ops
 
 ## Purpose
 

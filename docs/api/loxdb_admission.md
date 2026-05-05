@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_admission/include/loxdb_admission.h`
 - CMake target: `loxdb::admission`
+- Category: Policy (admission control)
 
 ## Purpose
 

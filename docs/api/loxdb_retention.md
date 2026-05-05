@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_retention/include/loxdb_retention.h`
 - CMake target: `loxdb::retention`
+- Category: Lifecycle
 
 ## Purpose
 

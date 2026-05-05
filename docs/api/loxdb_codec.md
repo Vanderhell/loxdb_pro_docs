@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_codec/include/loxdb_codec.h`
 - CMake target: `loxdb::codec`
+- Category: Data codec
 
 ## Purpose
 

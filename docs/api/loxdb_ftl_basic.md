@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_ftl_basic/include/loxdb_ftl_basic.h`
 - CMake target: `loxdb::ftl_basic` (optional)
+- Category: Storage backend (optional)
 
 ## Purpose
 

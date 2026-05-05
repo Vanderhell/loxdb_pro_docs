@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_secure/include/loxdb_secure.h`
 - CMake target: `loxdb::secure`
+- Category: Security
 
 ## Purpose
 

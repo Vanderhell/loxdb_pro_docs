@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_adapter_sdcard/include/loxdb_adapter_sdcard.h`
 - CMake target: `loxdb::adapter_sdcard` (optional)
+- Category: Storage backend (optional)
 
 ## Purpose
 

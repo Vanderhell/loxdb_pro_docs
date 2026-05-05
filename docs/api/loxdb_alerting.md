@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_alerting/include/loxdb_alerting.h`
 - CMake target: `loxdb::alerting`
+- Category: Observability
 
 ## Purpose
 

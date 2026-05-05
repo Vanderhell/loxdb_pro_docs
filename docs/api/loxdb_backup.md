@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_backup/include/loxdb_backup.h`
 - CMake target: `loxdb::backup`
+- Category: Lifecycle
 
 ## Purpose
 

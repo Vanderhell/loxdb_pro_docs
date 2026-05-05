@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_replication/include/loxdb_replication.h`
 - CMake target: `loxdb::replication`
+- Category: Connectivity
 
 ## Purpose
 

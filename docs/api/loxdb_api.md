@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_api/include/loxdb_api.h`
 - CMake target: `loxdb::api`
+- Category: Facade
 
 ## Purpose
 

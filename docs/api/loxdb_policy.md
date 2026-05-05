@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_policy/include/loxdb_policy.h`
 - CMake target: `loxdb::policy`
+- Category: Policy
 
 ## Purpose
 

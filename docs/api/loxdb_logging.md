@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_logging/include/loxdb_logging.h`
 - CMake target: `loxdb::logging`
+- Category: Observability
 
 ## Purpose
 

@@ -4,6 +4,7 @@
   - `modules/loxdb_safety/include/loxdb_safety.h`
   - `modules/loxdb_safety/include/loxdb_safety_profile.h`
 - CMake target: `loxdb::safety`
+- Category: Safety
 
 ## Purpose
 

@@ -2,6 +2,7 @@
 
 - Public header: `modules/loxdb_metrics/include/loxdb_metrics_microtimer.h`
 - CMake target: `loxdb::metrics_microtimer`
+- Category: Observability (adapter)
 
 ## Purpose
 
